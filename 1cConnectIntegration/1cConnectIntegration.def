@@ -1,0 +1,7 @@
+LIBRARY "1cConnectIntegration"
+
+EXPORTS
+GetClassObject
+DestroyObject
+GetClassNames
+SetPlatformCapabilities
